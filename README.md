@@ -1,5 +1,5 @@
 # Play Scottish Bingo
-A console program for simulating a game of card bingo, as described in my blog post.
+A console program for simulating a game of card bingo, as described in my [blog post](http://www.adamkewley.com/programming/2015/09/30/lets-play-scottish-bingo.html).
 
 # Usage
 `play-scottish-bingo` is a console program that takes the number of players (`number_of_players`) and number of rounds (`number_of_rounds`) as an argument. It writes `number_of_rounds` lines to the standard output. Each line contains the winning round number:
